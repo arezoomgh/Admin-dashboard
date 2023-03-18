@@ -5,6 +5,7 @@
 
 .container{
     background-color: #E5E9EC;
+    font-family: Comic Sans MS, Roboto, sans-serif;
     display: grid;
     grid-template-columns: 1fr 4fr;
 }
